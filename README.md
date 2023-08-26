@@ -1,6 +1,14 @@
-# Python
-## Variable 
-- Variables are containers for storing data values
-- Python has no command for declaring a variable.
-    - iuargion
-    - oaregon
+# push files to github
+- creating repo
+    - create reop. on github
+    - copy repo's url
+- creating folder
+    - create a folder on local machine / desktop
+    - type `cmd` in respective folder
+    - type `code .` in terminal
+- cloning repo. 
+    - type `git clone "repo's url"` in respective folder.
+- pushing
+    - click on source control
+    - must give commit msg before commiting
+    - click on `sync`.
