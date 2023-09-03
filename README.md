@@ -10,5 +10,6 @@
     - type `git clone "repo's url"` in respective folder.
 - pushing
     - click on source control
+    - click on commit
     - must give commit msg before commiting
     - click on `sync`.
